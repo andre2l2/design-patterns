@@ -3,3 +3,7 @@
 ## Strategy
 
 > Explicação aqui
+
+## Observer
+
+> Explicação aqui
