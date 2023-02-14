@@ -7,3 +7,7 @@
 ## Observer
 
 > Explicação aqui
+
+# Decorator
+
+> Explicação aqui
