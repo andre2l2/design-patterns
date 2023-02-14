@@ -4,7 +4,7 @@ import decorator.beverages.Expresso;
 import decorator.beverages.HouseBlend;
 import decorator.condiments.Mocha;
 
-public class StarBuzzCoffe {
+public class StarBuzzCoffee {
     public static void run() {
         Beverage beverage = new Expresso();
         System.out.println("Description: " + beverage.getDescription() + " $" + beverage.cost());

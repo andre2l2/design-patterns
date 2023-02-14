@@ -1,7 +1,7 @@
-import decorator.StarBuzzCoffe;
+import decorator.StarBuzzCoffee;
 
 public class Main {
     public static void main(String[] args) {
-        StarBuzzCoffe.run();
+        StarBuzzCoffee.run();
     }
 } 
