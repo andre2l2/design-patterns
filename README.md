@@ -11,3 +11,7 @@
 ## Decorator
 
 > Explicação aqui
+
+## Factory
+
+> Explicação aqui
