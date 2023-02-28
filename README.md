@@ -15,3 +15,5 @@
 ## Factory
 
 > Explicação aqui
+
+## Singleton
