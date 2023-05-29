@@ -17,3 +17,5 @@
 > Explicação aqui
 
 ## Singleton
+
+> Explicação aqui
